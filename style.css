@@ -1,0 +1,128 @@
+* {
+    box-sizing : border-box;
+}
+.row {
+    border: solid 1px red;
+    height: 150px;
+    font-size: 0px;
+}
+/* first div  */
+.color1{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,221,0));
+}
+.color2{
+    background-image: linear-gradient(to right, rgba(255,0,0,0),  rgb(255, 170, 0));
+}
+.color3{
+    background-image: linear-gradient(to right, rgba(255,0,0,0),  rgb(255, 140, 0));
+}
+
+/* second div  */
+.color4{
+    background-image: linear-gradient(to right, rgba(255,0,0,0),blue);
+}
+.color5{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(45, 45, 248));
+}
+.color6{
+    background-image: linear-gradient(to right, rgba(255,0,0,0),rgb(124, 124, 255));
+}
+
+/* third div  */
+
+.color7{
+    background-image: linear-gradient(to right, rgba(255,0,0,0),rgb(12, 12, 81) );
+}
+.color8{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(12, 12, 81, 0.915) );
+}
+.color9{
+    background-image: linear-gradient(to right, rgba(255,0,0,0),rgba(12, 12, 81, 0.675) );
+}
+.color10{
+    background-image: linear-gradient(to right, rgba(255,0,0,0),rgba(12, 12, 81, 0.54) );
+}
+.color11{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(12, 12, 81, 0.448) );
+}
+.color12{
+    background-image: linear-gradient(to right, rgba(255,0,0,0),rgba(12, 12, 81, 0.384) );
+}
+
+/* forth div  */
+.color13{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(3, 114, 3));
+}
+.color14{
+    background-image: linear-gradient(to right, rgba(255,0,0,0),rgb(6, 139, 6));
+}
+
+/* 5th div  */
+.color15{
+    background-image: linear-gradient(to right, rgba(255,0,0,0),rgb(122, 61, 8));
+}
+.color16{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(184, 88, 5));
+}
+
+.col {
+  
+    border: solid 1px black;
+    display: inline-block;
+    height: 100%;
+    width: 33.33%;
+}
+.col2 {
+    border: solid 1px black;
+    display: inline-block;
+    height: 100%;
+    width: 50%;
+}
+.row2 {
+    border: solid 1px rgb(26, 18, 24);
+    height: 50%;
+}
+
+.col3{
+    border: 1px solid green ;
+    display: inline-block;
+    width: 30.33%;
+    height: 100%;
+}
+.col4{
+    border: 1px solid green ;
+   
+    display: inline-block;
+    width: 33.33%;
+    height: 100%;
+}
+
+.col5{
+    border: 1px solid rgb(25, 4, 75) ;
+    display: inline-block;
+    width: 36.33%;
+    height: 100%;
+}
+
+.row3{
+    border: 1px solid greenyellow;
+    height: 50%;
+}
+.row4{
+    border: 1px solid black;
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+
+}
+.row5{
+    border: 1px solid brown;
+    height: 33.33%;
+}
+.col6{
+    border: 1px solid rgb(49, 93, 13);
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+
+}
